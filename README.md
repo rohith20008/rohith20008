@@ -1,81 +1,213 @@
-
-
-Readme · MD
-<div align="center"> <!-- Elemental accent strip: Pyro / Electro / Dendro / Hydro / Cryo / Geo / Anemo --> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E4572E,16:B24BF3,32:7CB518,48:1E90FF,64:7FDBFF,80:FFC93C,100:43E5C0&height=6&width=100%25" width="100%"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1730,25:2d1b4e,50:3a1e5c,75:2d1b4e,100:1a1730&height=240&section=header&animation=fadeIn"/> <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=40&duration=3200&pause=1200&color=FFC93C,E4572E,7FDBFF&center=true&vCenter=true&width=750&height=65&lines=ROHITH" /> <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=19&duration=2600&pause=700&color=D8CFE8&center=true&vCenter=true&width=850&height=40&lines=Traveler+of+Full+Stack+and+Data+Science+Realms;M.Tech+Integrated%2C+CSE%2C+SRMIST+KTR;React+%2F+FastAPI+%2F+Node+%2F+Machine+Learning+%2F+NLP" /> <br/> <img src="https://komarev.com/ghpvc/?username=rohith200408&label=PROFILE+VIEWS&color=7CB518&style=for-the-badge"/> <img src="https://img.shields.io/badge/dynamic/json?color=1E90FF&label=FOLLOWERS&query=followers&url=https://api.github.com/users/rohith200408&style=for-the-badge&logo=github"/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:43E5C0,16:FFC93C,32:7FDBFF,48:1E90FF,64:7CB518,80:B24BF3,100:E4572E&height=6&width=100%25" width="100%"/> </div> <br/>
-VISION
-python
-class Rohith:
-    def __init__(self):
-        self.education   = "M.Tech Integrated (5th Year), CSE - Data Science"
-        self.college     = "SRM Institute of Science and Technology, KTR"
-        self.email       = "rohith200408@gmail.com"
-        self.elements    = ["Full Stack Development", "Machine Learning",
-                             "Deep Learning", "Natural Language Processing"]
-        self.motto       = "Every project is a new region to explore."
-
-    def introduce(self):
-        return "Building end-to-end systems, from data pipelines to production UI."
-
-rohith = Rohith()
-print(rohith.introduce())
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E4572E,50:FFC93C,100:7CB518&height=4&width=100%25" width="100%"/>
-ELEMENTAL ARSENAL (TECH STACK)
 <div align="center">
-Frontend <br/> <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,figma&theme=dark"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0090,25:00E5FF,50:7B2FFF,75:FF3D00,100:FFD600&height=300&section=header&text=ROHITH&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Into%20the%20Code-Verse&descAlignY=58&descSize=25" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=32&duration=2500&pause=800&color=FF0090,00E5FF,7B2FFF,FF3D00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=FULL+STACK+DEVELOPER;MACHINE+LEARNING+%7C+DEEP+LEARNING;NLP+ENTHUSIAST+%7C+DATA+SCIENCE;BUILDING+MY+OWN+CODE-VERSE" alt="Typing SVG" />
 
 <br/><br/>
 
-Backend <br/> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,graphql&theme=dark"/>
+![Profile Views](https://komarev.com/ghpvc/?username=rohith200408&label=DIMENSION+VISITORS&color=FF0090&style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-SWINGING%20THROUGH%20CODE-00E5FF?style=for-the-badge&labelColor=0D0221)
+![Year](https://img.shields.io/badge/YEAR-5TH%20%7C%20MTECH%20INTEGRATED-7B2FFF?style=for-the-badge&labelColor=0D0221)
 
-<br/><br/>
+</div>
 
-Databases <br/> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite&theme=dark"/>
+<br/>
 
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:1A0533&height=3&width=100%" width="100%"/>
 
-Machine Learning / Deep Learning / NLP <br/> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark"/> <br/> <img src="https://img.shields.io/badge/MACHINE%20LEARNING-2d1b4e?style=for-the-badge&logo=scikitlearn&logoColor=FFC93C"/> <img src="https://img.shields.io/badge/DEEP%20LEARNING-2d1b4e?style=for-the-badge&logo=tensorflow&logoColor=E4572E"/> <img src="https://img.shields.io/badge/NLP-2d1b4e?style=for-the-badge&logo=openai&logoColor=7FDBFF"/> <img src="https://img.shields.io/badge/COMPUTER%20VISION-2d1b4e?style=for-the-badge&logo=opencv&logoColor=7CB518"/>
+<br/>
 
-<br/><br/>
+## <img src="https://img.shields.io/badge/-01-FF0090?style=flat-square&labelColor=0D0221"/> ABOUT THIS DIMENSION
 
-Tools & Platforms <br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux,vercel,aws&theme=dark"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 
-</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC93C,50:7FDBFF,100:B24BF3&height=4&width=100%25" width="100%"/>
-STATISTICS OF EXPLORATION
-<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rohith200408&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&bg_color=1a1730&title_color=FFC93C&icon_color=7FDBFF&text_color=D8CFE8"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith200408&layout=compact&hide_border=true&theme=radical&bg_color=1a1730&title_color=E4572E&text_color=D8CFE8"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith200408&hide_border=true&theme=highcontrast&background=1a1730&ring=B24BF3&fire=FFC93C&currStreakLabel=7FDBFF"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith200408&theme=react-dark&hide_border=true&bg_color=1a1730&color=FFC93C&line=E4572E&point=7FDBFF"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7FDBFF,50:B24BF3,100:E4572E&height=4&width=100%25" width="100%"/>
-TROPHIES OF THE ABYSS
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rohith200408&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E4572E,50:FFC93C,100:7FDBFF&height=4&width=100%25" width="100%"/>
-ARCADE CORNER
-Three living, auto-updating mini-games built from real contribution data. These are genuine animated SVGs generated on a schedule by GitHub Actions — not decoration. Setup files are included below; nothing here works until the one-time setup is done (see SETUP section at the very bottom).
+```yaml
+identity:
+  name: Rohith
+  currently: "5th Year M.Tech Integrated Student"
+  institution: "SRMIST, KTR"
+  branch: "Computer Science Engineering"
+  specialization: "Data Science"
+  email: "rohith200408@gmail.com"
 
-Pac-Man eating the contribution grid
+superpowers:
+  origin: "self-taught + classroom hybrid variant"
+  strength: "shipping full-stack apps + training models"
+  weakness: "too many browser tabs open at once"
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohith200408/rohith200408/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohith200408/rohith200408/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rohith200408/rohith200408/output/pacman-contribution-graph.svg"> </picture>
-Snake eating the contribution grid
+current_focus:
+  - "Full Stack Development"
+  - "Machine Learning / Deep Learning"
+  - "Natural Language Processing"
+  - "Building projects that actually solve problems"
+```
 
-<img src="https://raw.githubusercontent.com/rohith200408/rohith200408/output/github-contribution-grid-snake-dark.svg" alt="snake contribution animation"/>
-A nod to the Chrome offline dino (decorative only)
+<br clear="right"/>
 
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d2-4a3d-808b-6a92d5b02c8f.gif" width="55%" alt="decorative runner animation"/> <br/> <sub>Note, for transparency: GitHub strips scripts from README files, so a truly playable Dino game cannot run inline. No contribution-based Dino generator exists yet, so this is a decorative animated placeholder rather than a functional game, unlike Pac-Man and Snake above.</sub> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC93C,50:E4572E,100:7CB518&height=4&width=100%25" width="100%"/>
-FEATURED QUESTS (PROJECTS)
-<div align="center"> <a href="https://github.com/rohith200408"> <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohith200408&repo=your-ml-project&hide_border=true&theme=radical&bg_color=1a1730&title_color=FFC93C&icon_color=7FDBFF"/> </a> <a href="https://github.com/rohith200408"> <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohith200408&repo=your-fullstack-project&hide_border=true&theme=radical&bg_color=1a1730&title_color=E4572E&icon_color=7CB518"/> </a> <br/> <sub>Replace <code>your-ml-project</code> and <code>your-fullstack-project</code> with your real repository names.</sub> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B24BF3,50:7FDBFF,100:FFC93C&height=4&width=100%25" width="100%"/>
-CURRENT QUEST LOG
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:1A0533&height=3&width=100%" width="100%"/>
+
+<br/>
+
 <div align="center">
-yaml
-Working On:      End-to-end AI-driven web applications, FastAPI + React
-Learning:        Advanced NLP architectures, scalable backend systems
-Collaborating:   Data Science and Full Stack projects
-Ask Me About:    React, FastAPI, Node.js, SQL/NoSQL, ML, DL, NLP
-</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7CB518,50:1E90FF,100:B24BF3&height=4&width=100%25" width="100%"/>
-STAY IN TOUCH
-<div align="center"> <a href="mailto:rohith200408@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-2d1b4e?style=for-the-badge&logo=gmail&logoColor=E4572E"/> </a> <a href="https://github.com/rohith200408"> <img src="https://img.shields.io/badge/GITHUB-2d1b4e?style=for-the-badge&logo=github&logoColor=7FDBFF"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LINKEDIN-2d1b4e?style=for-the-badge&logo=linkedin&logoColor=FFC93C"/> </a> <a href="#"> <img src="https://img.shields.io/badge/PORTFOLIO-2d1b4e?style=for-the-badge&logo=vercel&logoColor=7CB518"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LEETCODE-2d1b4e?style=for-the-badge&logo=leetcode&logoColor=B24BF3"/> </a> <br/> <sub>Swap the <code>#</code> placeholders with your real LinkedIn, portfolio, and LeetCode links.</sub> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E4572E,16:B24BF3,32:7CB518,48:1E90FF,64:7FDBFF,80:FFC93C,100:43E5C0&height=6&width=100%25" width="100%"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1730,25:2d1b4e,50:3a1e5c,75:2d1b4e,100:1a1730&height=170&section=footer&animation=fadeIn"/> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=17&duration=3000&pause=1000&color=D8CFE8&center=true&vCenter=true&width=550&height=35&lines=May+your+journey+be+filled+with+stars." /> </div>
-SETUP (read this once)
-Three things must be done for everything above to render without broken images:
 
-Username: replace every rohith200408 in this file with your real GitHub username, if different.
-Profile repo: create a repository named exactly your username (e.g. rohith200408/rohith200408). This file goes there as README.md.
-Enable write permissions: in that repo, go to Settings → Actions → General → Workflow permissions → select "Read and write permissions" → Save.
-Add the two workflow files provided alongside this README (pacman.yml and snake.yml) into .github/workflows/ in that repo, then push. Go to the Actions tab and manually run each workflow once — after that they auto-refresh on a schedule.
-Pinned projects and social links: replace your-ml-project, your-fullstack-project, and the # link placeholders with your real repo names and profile URLs.
-Until step 4 is done, the Pac-Man and Snake images will show as broken — that is expected on a fresh setup, not a bug in this file.
+## <img src="https://img.shields.io/badge/-02-00E5FF?style=flat-square&labelColor=0D0221"/> ARSENAL / TECH STACK
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=FRONTEND%20%2B%20BACKEND&fontSize=22&fontColor=FF0090&animation=twinkling"/>
 
+<img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,express,fastapi,py&theme=dark&perline=8" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=DATABASES%20%2B%20TOOLS&fontSize=22&fontColor=00E5FF&animation=twinkling"/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode,docker,linux,figma&theme=dark&perline=8" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=AI%20%2F%20ML%20%2F%20DL%20%2F%20NLP&fontSize=22&fontColor=7B2FFF&animation=twinkling"/>
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&theme=dark&perline=8" />
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/PYTHON-FF0090?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0221)
+![React](https://img.shields.io/badge/REACT-00E5FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0D0221)
+![FastAPI](https://img.shields.io/badge/FASTAPI-7B2FFF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D0221)
+![Node](https://img.shields.io/badge/NODE.JS-FF3D00?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D0221)
+![Express](https://img.shields.io/badge/EXPRESS-FFD600?style=for-the-badge&logo=express&logoColor=black&labelColor=0D0221)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-FF0090?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D0221)
+![MongoDB](https://img.shields.io/badge/MONGODB-00E5FF?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D0221)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-7B2FFF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D0221)
+![PyTorch](https://img.shields.io/badge/PYTORCH-FF3D00?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D0221)
+![NLP](https://img.shields.io/badge/NLP-FFD600?style=for-the-badge&logo=OpenAI&logoColor=black&labelColor=0D0221)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:1A0533&height=3&width=100%" width="100%"/>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-03-7B2FFF?style=flat-square&labelColor=0D0221"/> MULTIVERSE STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rohith200408&show_icons=true&hide_border=true&bg_color=0D0221&title_color=FF0090&icon_color=00E5FF&text_color=ffffff&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith200408&layout=compact&hide_border=true&bg_color=0D0221&title_color=00E5FF&text_color=ffffff&langs_count=8" width="41%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rohith200408&hide_border=true&background=0D0221&ring=FF0090&fire=FFD600&currStreakLabel=00E5FF&sideLabels=ffffff&dates=7B2FFF&stroke=1A0533" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith200408&bg_color=0D0221&color=00E5FF&line=FF0090&point=FFD600&area=true&hide_border=true" width="90%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:1A0533&height=3&width=100%" width="100%"/>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-04-FF3D00?style=flat-square&labelColor=0D0221"/> FEATURED BUILDS
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Full Stack Project
+**React · FastAPI/Node · PostgreSQL/MongoDB**
+
+A production-style full stack application built with a modern REST API backend and a fully responsive React frontend, backed by relational and document databases for flexible data handling.
+
+`React` `FastAPI` `Express` `PostgreSQL` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### ML / DL Project
+**Python · TensorFlow/PyTorch**
+
+Deep learning model built and trained end-to-end, covering data preprocessing, model architecture design, training, and evaluation for real-world prediction tasks.
+
+`Python` `TensorFlow` `PyTorch` `Scikit-learn`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### NLP Project
+**Python · NLP Pipelines**
+
+Natural language processing pipeline covering text preprocessing, embeddings, and model-based text understanding tasks such as classification or generation.
+
+`Python` `NLP` `Transformers` `NLTK`
+
+</td>
+<td width="50%" valign="top">
+
+### More on GitHub
+**Explore the full multiverse**
+
+Check the pinned repositories on my profile for the complete, up-to-date collection of full stack, ML, DL, and NLP projects with source code and details.
+
+`Explore` `Pinned Repos` `Live Projects`
+
+</td>
+</tr>
+</table>
+
+<sub>Pin your best repositories on your GitHub profile so they appear right below this section.</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:1A0533&height=3&width=100%" width="100%"/>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-05-FFD600?style=flat-square&labelColor=0D0221"/> TROPHY CASE
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohith200408&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:1A0533&height=3&width=100%" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://img.shields.io/badge/-06-00E5FF?style=flat-square&labelColor=0D0221"/> CONNECT ACROSS DIMENSIONS
+
+[![Gmail](https://img.shields.io/badge/EMAIL-FF0090?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0221)](mailto:rohith200408@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221)](https://github.com/rohith200408)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7B2FFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221)](#)
+
+<br/><br/>
+
+> "It's not a mistake anyone can fix. I got to do it myself."
+>
+> Every great build starts with one line of broken code and the will to debug it.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,25:FF0090,50:00E5FF,75:FF3D00,100:FFD600&height=150&section=footer"/>
+
+**Thanks for visiting my corner of the code-verse. Now go build something impossible.**
+
+</div>
