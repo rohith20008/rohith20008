@@ -1,672 +1,167 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A0A0A,45:171717,75:2A2A2A,100:FACC15&text=ROHITH&fontSize=72&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20%C3%97%20AI%20%C3%97%20MACHINE%20LEARNING&descAlignY=63&descSize=18&animation=twinkling"/>
+<!-- Animated Rainbow Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,15:FF7F00,30:FFFF00,45:00FF00,60:00FFFF,75:0000FF,90:8B00FF,100:FF0000&height=280&section=header&text=Hey%2C%20I'm%20Rohith%20%F0%9F%91%8B&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%2FDL%2FNLP%20Enthusiast%20%7C%20Data%20Science%20%40%20SRMIST&descAlignY=58&descSize=20"/>
 
-<br>
+<!-- Animated Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=32&duration=2500&pause=800&color=FF6EC7,FFD700,00E5FF,7CFC00,FF6347&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+my+Cosmic+Corner+of+GitHub+%F0%9F%8C%88;M.Tech+Integrated+%40+SRMIST+KTR+%F0%9F%8E%93;Data+Science+%2B+Full+Stack+%3D+%E2%9C%A8;Building+things+that+think+%F0%9F%A7%A0+and+ship+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=1800&pause=600&color=FACC15&center=true&vCenter=true&width=900&height=55&lines=FULL+STACK+ENGINEER;MACHINE+LEARNING+ENGINEER;DEEP+LEARNING+ENTHUSIAST;M.TECH+STUDENT;AI+SYSTEM+BUILDER;DSA+%7C+SYSTEM+DESIGN+%7C+SOFTWARE+ENGINEERING;BUILDING+THE+NEXT+VERSION" />
+<br/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/POWERED_BY-COFFEE-111111?style=for-the-badge&labelColor=111111&color=FACC15&logoColor=000000"/> <img src="https://img.shields.io/badge/MODE-BUILDING-111111?style=for-the-badge&labelColor=111111&color=FACC15"/> <img src="https://img.shields.io/badge/MINDSET-LEARN%20%7C%20BUILD%20%7C%20REPEAT-111111?style=for-the-badge&labelColor=111111&color=FACC15"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                    WELCOME TO MY DOMAIN                      ║
-║                                                              ║
-║       SOFTWARE ENGINEERING  ×  ARTIFICIAL INTELLIGENCE       ║
-║                                                              ║
-║                 "BUILD. BREAK. REBUILD."                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+<!-- Profile views + visitor badge -->
+<img src="https://komarev.com/ghpvc/?username=rohith200408&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Followers&query=followers&url=https://api.github.com/users/rohith200408&style=for-the-badge&logo=github" alt="followers"/>
+<img src="https://img.shields.io/badge/STATUS-Always%20Learning-00E5FF?style=for-the-badge&labelColor=black"/>
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+
+## 🎪 About This Circus Ringleader
+
+```python
+class Rohith:
+    def __init__(self):
+        self.name = "Rohith"
+        self.pronouns = "He/Him"
+        self.education = "M.Tech Integrated (5th Year) — CSE, Data Science"
+        self.college = "SRM Institute of Science and Technology, KTR"
+        self.email = "rohith200408@gmail.com"
+        self.role = ["Full Stack Developer 🌐", "ML/DL/NLP Explorer 🤖", "Data Science Nerd 📊"]
+        self.current_focus = "Building end-to-end AI-powered web apps"
+        self.fun_fact = "I debug with vibes and console.log() 😌"
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something wild! 🎉")
+
+me = Rohith()
+me.say_hi()
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🌈 My Superpowers (Tech Stack)
 
 <div align="center">
 
-CHARACTER SELECT
+### 🖥️ Frontend Sorcery
+<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,figma&theme=dark" />
+
+### ⚙️ Backend Wizardry
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,graphql&theme=dark" />
+
+### 🗄️ Databases & Storage
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite&theme=dark" />
+
+### 🧠 AI / ML / DL / NLP
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FFD700?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+<img src="https://img.shields.io/badge/NLP-00E5FF?style=for-the-badge&logo=OpenAI&logoColor=black"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-8A2BE2?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux,vercel,aws&theme=dark" />
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
-<table> <tr>
-
-<td width="35%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark&bg_color=111111&title_color=FACC15&icon_color=FACC15&text_color=FFFFFF&rank_icon=github" width="100%"/>
-
-</td>
-
-<td width="65%" valign="middle">
-
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│  NAME       : ROHITH                                 │
-│  CLASS      : SOFTWARE × AI ENGINEER                 │
-│  LEVEL      : M.TECH                                 │
-│                                                      │
-│  SPECIALITY                                          │
-│  ────────────────────────────────────────────────     │
-│  Full Stack Engineering                              │
-│  Machine Learning                                    │
-│  Deep Learning                                       │
-│  Artificial Intelligence                             │
-│  Data Structures & Algorithms                        │
-│  System Design                                       │
-│                                                      │
-│  STATUS     : ONLINE                                 │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-
-</td>
-
-</tr> </table>
-
-<br>
+## 📊 GitHub Stats That Actually Glow
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+INITIALIZED+%5D;%5B+LOADING+SKILLS...+%5D;%5B+TRAINING+MODEL...+%5D;%5B+BUILDING+APPLICATION...+%5D;%5B+COMPILATION+SUCCESSFUL+%5D" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohith200408&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00E5FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith200408&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith200408&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FFD700&currStreakLabel=00E5FF"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith200408&theme=react-dark&hide_border=true&bg_color=0D1117&color=00E5FF&line=FF6EC7&point=FFD700"/>
 
 </div>
 
-<br>
+## 🏆 Trophy Cabinet
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rohith200408&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
+</div>
+
+## 🐍 Contribution Snake (Yes, It's Alive)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/rohith200408/rohith200408/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<br/>
+<sub>✨ Add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to your profile repo to auto-generate this snake from your real contribution graph!</sub>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd0-92e4-be59d5ec1233.gif" width="100%">
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-THE STORY
+<a href="https://github.com/rohith200408">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohith200408&repo=your-ml-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00E5FF"/>
+</a>
+<a href="https://github.com/rohith200408">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohith200408&repo=your-fullstack-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=7CFC00"/>
+</a>
+
+<sub>🔧 Replace <code>your-ml-project</code> and <code>your-fullstack-project</code> with your actual repo names!</sub>
 
 </div>
 
-<br>
-
-<table> <tr>
-
-<td width="60%" valign="top">
-
-WHO AM I?
-
-I am an M.Tech student building across the worlds of software engineering and artificial intelligence.
-
-My interests range from designing complete full-stack applications to experimenting with machine learning and deep learning systems.
-
-I enjoy understanding what happens beneath the interface:
-
-USER
- ↓
-FRONTEND
- ↓
-API
- ↓
-BACKEND
- ↓
-DATABASE
- ↓
-DATA
- ↓
-MODEL
- ↓
-INTELLIGENCE
-
-My goal is to become the kind of engineer who can move comfortably from interface to infrastructure and from data to intelligence.
-
-</td>
-
-<td width="40%" align="center">
-
-╭─────────────────────╮
-│                     │
-│    ROHITH.EXE       │
-│                     │
-│   INITIALIZING...   │
-│                     │
-│   ██████████████    │
-│   ██████████████    │
-│   ███████████░░░    │
-│                     │
-│   SYSTEM ONLINE     │
-│                     │
-╰─────────────────────╯
-
-<br>
-
-<img src="https://img.shields.io/badge/HP-██████████-FACC15?style=for-the-badge&labelColor=111111"/> <br><br> <img src="https://img.shields.io/badge/XP-████████░░-FACC15?style=for-the-badge&labelColor=111111"/>
-
-</td>
-
-</tr> </table>
-
-<br>
+## 🎯 Currently
 
 <div align="center">
 
-SKILL TREE
+```yaml
+🔭 Working On: End-to-end AI/ML web applications with FastAPI + React
+🌱 Learning: Advanced NLP architectures & scalable backend systems
+👯 Looking to Collaborate: Data Science + Full Stack projects
+💬 Ask Me About: React, FastAPI, Node.js, ML/DL, NLP, Databases
+⚡ Fun Fact: I turn coffee into commits ☕➡️💻
+```
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
 
-                           ROHITH
-                              │
-            ┌─────────────────┼─────────────────┐
-            │                 │                 │
-            ▼                 ▼                 ▼
-       ENGINEERING           AI              COMPUTER SCIENCE
-            │                 │                 │
-       ┌────┼────┐       ┌────┼────┐       ┌────┼────┐
-       │    │    │       │    │    │       │    │    │
-       ▼    ▼    ▼       ▼    ▼    ▼       ▼    ▼    ▼
-     React FastAPI SQL    ML   DL  CV      DSA  OOP  SYSTEMS
-       │    │    │       │    │    │       │    │    │
-       └────┼────┘       └────┼────┘       └────┼────┘
-            │                 │                 │
-            └─────────────────┼─────────────────┘
-                              ▼
-                       INTELLIGENT SYSTEMS
-
-<br>
+## 🌐 Let's Connect & Build Something Awesome
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,fastapi,nodejs,mysql,postgresql,mongodb,pytorch,tensorflow,docker,git,github,linux&perline=8" />
+<a href="mailto:rohith200408@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/rohith200408">
+<img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-7CFC00?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<sub>🔧 Swap the <code>#</code> placeholders above with your real LinkedIn, portfolio & LeetCode links!</sub>
 
 </div>
 
-<br>
-
 <div align="center">
-
-TECHNICAL LOADOUT
-
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="90"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="90"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="90"/>
 </div>
 
-<br>
-
-<table> <tr>
-
-<td width="25%" align="center">
-
-SOFTWARE
-
-Python
-
-JavaScript
-
-TypeScript
-
-React
-
-FastAPI
-
-Node.js
-
-REST APIs
-
-</td>
-
-<td width="25%" align="center">
-
-DATA
-
-MySQL
-
-PostgreSQL
-
-MongoDB
-
-NumPy
-
-Pandas
-
-Data Analysis
-
-SQL
-
-</td>
-
-<td width="25%" align="center">
-
-AI
-
-Scikit-learn
-
-Machine Learning
-
-Feature Engineering
-
-Model Evaluation
-
-Prediction
-
-AI Systems
-
-</td>
-
-<td width="25%" align="center">
-
-DEEP LEARNING
-
-PyTorch
-
-TensorFlow
-
-Neural Networks
-
-Computer Vision
-
-Model Training
-
-Optimization
-
-</td>
-
-</tr> </table>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,15:0000FF,30:00FFFF,45:00FF00,60:FFFF00,75:FF7F00,90:FF0000,100:8B00FF&height=180&section=footer&text=Thanks%20for%20Visiting!%20%E2%9C%A8&fontSize=26&fontColor=ffffff&animation=twinkling"/>
 
 <div align="center">
-
-QUEST LOG
-
-</div>
-
-<br>
-
-<table> <tr>
-
-<td width="50%" valign="top">
-
-QUEST 01
-FULL STACK SYSTEMS
-STATUS : IN PROGRESS
-
-FRONTEND
-████████████████████
-
-BACKEND
-██████████████████░░
-
-DATABASE
-████████████████████
-
-ARCHITECTURE
-███████████████░░░░░
-
-Building complete applications rather than isolated interfaces.
-
-</td>
-
-<td width="50%" valign="top">
-
-QUEST 02
-MACHINE LEARNING
-STATUS : ACTIVE
-
-DATA
-████████████████████
-
-FEATURES
-████████████████░░░░
-
-MODELS
-██████████████░░░░░░
-
-EVALUATION
-████████████░░░░░░░░
-
-Learning how data becomes predictions and useful intelligence.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-QUEST 03
-DEEP LEARNING
-STATUS : TRAINING
-
-NEURAL NETWORKS
-████████████████░░░░
-
-PYTORCH
-██████████████░░░░░░
-
-TENSORFLOW
-████████████░░░░░░░░
-
-RESEARCH
-██████████░░░░░░░░░░
-
-Exploring neural architectures and intelligent models.
-
-</td>
-
-<td width="50%" valign="top">
-
-QUEST 04
-SYSTEM DESIGN
-STATUS : LEARNING
-
-ARCHITECTURE
-██████████████░░░░░░
-
-SCALABILITY
-███████████░░░░░░░░░
-
-DISTRIBUTED SYSTEMS
-████████░░░░░░░░░░░░
-
-DESIGN PATTERNS
-████████████░░░░░░░░
-
-Learning how individual components become scalable systems.
-
-</td>
-
-</tr> </table>
-
-<br>
-
-<div align="center">
-
-PROJECT ARCADE
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=600&color=FACC15&center=true&vCenter=true&width=700&lines=SELECT+YOUR+MISSION;PROJECTS+LOADED;CHOOSE+YOUR+NEXT+ADVENTURE" />
-
-</div>
-
-<br>
-
-<table> <tr>
-
-<td width="50%" valign="top">
-
-╔══════════════════════════════════╗
-║                                  ║
-║       MISSION 01                 ║
-║                                  ║
-║       FULL STACK SYSTEM          ║
-║                                  ║
-║       [████████████████]         ║
-║                                  ║
-║       React                      ║
-║       FastAPI                    ║
-║       MySQL                      ║
-║                                  ║
-║       API • DATABASE • UI        ║
-║                                  ║
-╚══════════════════════════════════╝
-
-<a href="YOUR_PROJECT_1"> <img src="https://img.shields.io/badge/ENTER_MISSION-111111?style=for-the-badge&color=FACC15&labelColor=111111"/> </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-╔══════════════════════════════════╗
-║                                  ║
-║       MISSION 02                 ║
-║                                  ║
-║       MACHINE LEARNING           ║
-║                                  ║
-║       [██████████████░░]         ║
-║                                  ║
-║       Python                     ║
-║       NumPy                      ║
-║       Pandas                     ║
-║       Scikit-learn               ║
-║                                  ║
-║       DATA • MODEL • PREDICT     ║
-║                                  ║
-╚══════════════════════════════════╝
-<a href="YOUR_PROJECT_2"> <img src="https://img.shields.io/badge/ENTER_MISSION-111111?style=for-the-badge&color=FACC15&labelColor=111111"/> </a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-╔══════════════════════════════════╗
-║                                  ║
-║       MISSION 03                 ║
-║                                  ║
-║       DEEP LEARNING              ║
-║                                  ║
-║       [████████████░░░░]         ║
-║                                  ║
-║       PyTorch                    ║
-║       TensorFlow                 ║
-║       Neural Networks            ║
-║                                  ║
-║       TRAIN • VALIDATE • INFER   ║
-║                                  ║
-╚══════════════════════════════════╝
-
-<a href="YOUR_PROJECT_3"> <img src="https://img.shields.io/badge/ENTER_MISSION-111111?style=for-the-badge&color=FACC15&labelColor=111111"/> </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-╔══════════════════════════════════╗
-║                                  ║
-║       MISSION 04                 ║
-║                                  ║
-║       ALGORITHM LAB              ║
-║                                  ║
-║       [██████████████████]       ║
-║                                  ║
-║       Python                     ║
-║       C++                        ║
-║       Java                       ║
-║                                  ║
-║       DSA • COMPLEXITY • OPTIMIZE║
-║                                  ║
-╚══════════════════════════════════╝
-
-<a href="YOUR_DSA_REPOSITORY"> <img src="https://img.shields.io/badge/ENTER_MISSION-111111?style=for-the-badge&color=FACC15&labelColor=111111"/> </a>
-
-</td>
-
-</tr> </table>
-
-<br>
-
-<div align="center">
-
-M.TECH ARC
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=M.TECH&fontSize=45&fontColor=FFFFFF&color=0:111111,50:2A2A2A,100:FACC15&animation=fadeIn"/>
-
-<br><br>
-
-ACADEMIC MODE
-      │
-      ▼
-COMPUTER SCIENCE
-      │
-      ├───────────────┐
-      ▼               ▼
-ARTIFICIAL        SOFTWARE
-INTELLIGENCE      ENGINEERING
-      │               │
-      ▼               ▼
-MACHINE           SYSTEM
-LEARNING          DESIGN
-      │               │
-      ▼               ▼
-DEEP              SCALABLE
-LEARNING          SYSTEMS
-      │               │
-      └───────┬───────┘
-              ▼
-       INTELLIGENT SOFTWARE
-
-</div>
-
-<br>
-
-<div align="center">
-
-TRAINING ROOM
-
-</div>
-
-<br>
-
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  CURRENT TRAINING                                               │
-│                                                                  │
-│  SYSTEM DESIGN                    ███████████████░░░░░            │
-│                                                                  │
-│  DATA STRUCTURES                  █████████████████░░░            │
-│                                                                  │
-│  MACHINE LEARNING                 ███████████████░░░░░            │
-│                                                                  │
-│  DEEP LEARNING                    ████████████░░░░░░░            │
-│                                                                  │
-│  FULL STACK                       ████████████████████            │
-│                                                                  │
-│  SOFTWARE ENGINEERING             ████████████████░░░            │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1600&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=%5B+LEARNING...+%5D;%5B+EXPERIMENTING...+%5D;%5B+BUILDING...+%5D;%5B+DEBUGGING...+%5D;%5B+OPTIMIZING...+%5D;%5B+REPEAT...+%5D" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-GITHUB BATTLE LOG
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=111111&title_color=FACC15&icon_color=FACC15&text_color=FFFFFF&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&bg_color=111111&title_color=FACC15&text_color=FFFFFF" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=111111&ring=FACC15&fire=FACC15&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FACC15&sideNums=FFFFFF" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-ACTIVITY MAP
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=111111&color=FFFFFF&line=FACC15&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" width="96%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-CONTRIBUTION BEAST
-
-<br>
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="95%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-DSA ARENA
-
-<br>
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="700"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ALGORITHMS-ACTIVE-111111?style=for-the-badge&labelColor=111111&color=FACC15"/> <img src="https://img.shields.io/badge/PROBLEM_SOLVING-ACTIVE-111111?style=for-the-badge&labelColor=111111&color=FACC15"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-SYSTEM STATUS
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  ROHITH SYSTEM                                             │
-│                                                            │
-│  ──────────────────────────────────────────────────────    │
-│                                                            │
-│  CORE                    ONLINE                            │
-│  LEARNING ENGINE         ACTIVE                            │
-│  BUILD SYSTEM            ONLINE                            │
-│  DEBUGGING MODULE        ACTIVE                            │
-│  CREATIVITY              100%                              │
-│  COFFEE                  REQUIRED                          │
-│                                                            │
-│  ──────────────────────────────────────────────────────    │
-│                                                            │
-│  NEXT OBJECTIVE                                             │
-│                                                            │
-│  BUILD SOMETHING WORTH REMEMBERING.                        │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2300&pause=700&color=FACC15&center=true&vCenter=true&width=700&lines=MISSION+CONTINUES...;NEXT+LEVEL+LOADING...;KEEP+BUILDING.;KEEP+LEARNING.;KEEP+EVOLVING." />
-
-</div>
-
-<br>
-
-<div align="center">
-
-CONNECT
-
-<br>
-
-<a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=FACC15"/> </a>
-
-<a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=FACC15"/> </a>
-
-<a href="YOUR_LEETCODE_URL"> <img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=FACC15"/> </a>
-
-<a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FACC15"/> </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&style=for-the-badge&color=FACC15&labelColor=111111"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0A0A0A,35:171717,70:2A2A2A,100:FACC15&animation=twinkling"/>
-
+<i>⭐️ From <a href="https://github.com/rohith200408">rohith200408</a> — if this profile made you smile, drop a star somewhere! ⭐️</i>
 </div>
